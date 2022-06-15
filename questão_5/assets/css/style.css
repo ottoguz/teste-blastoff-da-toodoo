@@ -1,0 +1,18 @@
+h1 {
+    margin-left: 45px;
+}
+
+
+ul li {
+    list-style: none;
+    text-transform: uppercase;
+    padding: 30px;
+    border-bottom: 2px solid #000;
+    margin-right: 50px;
+}
+
+
+ul li:last-child {
+    border-bottom: 0;
+}
+

@@ -1,0 +1,16 @@
+.links {
+    margin-top: 50px;
+}
+
+
+a {
+    padding: 30px;
+    margin-bottom: 30px;
+    text-decoration: none;
+    color: #000;
+}
+
+
+a:hover {
+    border-bottom: 5px solid #000;
+}

@@ -1,0 +1,40 @@
+.choco-box {
+    margin: auto;
+    margin-top: 500px;
+    height: 190px;
+    width: 500px;
+    background-image: url(../images/choco.jpeg);
+    background-size: cover;
+    border: 2px solid rgb(129, 29, 29);
+}
+
+
+.input-area {
+    padding: 30px;
+}
+
+
+.input-area input {
+    height: 50px;
+    width: 450px;
+    color: #fff;
+    font-size: 15px;
+    margin-top: 20px;
+    margin-left: -8px;
+    background-color: rgba(129, 29, 29, 0.8);
+}
+
+
+.input-area input:last-child {
+    width: 100px;
+    margin-left: 175px;
+}
+
+
+input::placeholder {
+    color: #fff;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+
+
